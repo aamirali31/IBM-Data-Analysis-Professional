@@ -17,8 +17,7 @@ Power your data analyst career by learning the core principles of data analysis 
 ## Course Structures
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-# <span style="color: red;">Introduction to Data Analytics.</span>
-
+#### <span style="color: blue;">Introduction to Data Analytics</span>
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
